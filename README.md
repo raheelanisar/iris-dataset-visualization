@@ -85,3 +85,12 @@ species using Python.
 1. Install libraries: `pip install pandas numpy matplotlib seaborn scikit-learn`
 2. Open Jupyter Notebook
 3. Run `Iris_Dataset_Visualization.ipynb`
+
+   ## 📷 Project Demo
+http://localhost:8501/
+
+---
+
+## 🔗 Live Demo (Optional)
+If deployed on Streamlit Cloud:
+http://localhost:8501/
